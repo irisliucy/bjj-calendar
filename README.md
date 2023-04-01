@@ -11,3 +11,10 @@ We are working to include all sorts of jiu-jitsu competitions...
 - [ ] [Smooth Camp](https://smoothcomp.com/en/events/upcoming)
 - [ ] [ADCC Submission Fighting World Federation](https://adcombat.com/)
 
+## Next Steps
+Exhustive list with no particular order:
+1. Automatically scrape supported website periodically
+2. Create database to store all up-to-date jiu jitsu competition data
+3. Automatically add/ update/ delete the scraped list to the database (one true source)
+4. Predict future events
+5. Predict cost of competing in an event (registration fee + membership + traveling cost)
