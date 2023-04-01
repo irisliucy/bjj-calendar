@@ -1,0 +1,5 @@
+# virtual env
+bjj-env/
+
+# logs
+*.html
