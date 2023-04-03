@@ -3,3 +3,6 @@ bjj-env/
 
 # logs
 *.html
+
+# cache
+__pycache__
