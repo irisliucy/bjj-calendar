@@ -18,8 +18,6 @@ options.add_argument('--incognito')
 options.add_argument('--headless')
 driver = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver", chrome_options=options)
 
-
-
 def extract_event_per_page(event_selectors, events, event_cnt):
     for i, event_selector in enumerate(event_selectors):
         # i. Extract event date
