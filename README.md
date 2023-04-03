@@ -9,7 +9,7 @@ We are working to include all sorts of jiu-jitsu competitions...
 - [ ] [JJWL (Jiu Jitsu World League)](https://www.jjworldleague.com/)
 - [ ] [SIJJF (Sport Jiu-Jitsu International Federation)](https://sjjif.com/calendar)
 - [ ] [Smooth Camp](https://smoothcomp.com/en/events/upcoming)
-- [ ] [ADCC Submission Fighting World Federation](https://adcombat.com/)
+- [x] [ADCC Submission Fighting World Federation](https://adcombat.com/)
 
 ## Next Steps
 Exhustive list with no particular order:
